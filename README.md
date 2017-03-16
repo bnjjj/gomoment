@@ -1,5 +1,5 @@
 [![GoDoc](https://godoc.org/github.com/bnjjj/gomoment?status.svg)](http://godoc.org/github.com/bnjjj/gomoment)
-
+[![Build Status](https://travis-ci.org/bnjjj/gomoment.svg?branch=master)](https://travis-ci.org/bnjjj/gomoment)
 # gomoment
 
 _gomoment_ is a golang package to parse text that contain date or moment in french into a golang time struct
