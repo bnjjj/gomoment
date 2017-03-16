@@ -1,6 +1,7 @@
 language: go
-script: make test
+script: go test
 go:
 	- 1.6
 	- 1.7.x
+  - 1.8.x
 	- master
