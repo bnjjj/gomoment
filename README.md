@@ -53,6 +53,9 @@ begin, end, err := GetDate("Combien de km j'ai réalisé hier ?", true, location
 + `le 5 janvier`
 + `le 5/01/2017`
 
+## References
+
+It's the package used for [Talk to my car](http://www.talk-to-my-car.com)
 
 ## Contributions
 
